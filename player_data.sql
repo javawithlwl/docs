@@ -1,3 +1,5 @@
+https://github.com/teamkaliyona/vtu-dbms-lab/tree/main/DBMS-03-Movie%20Database
+
 DROP TABLE player;
 CREATE TABLE player(
    name      VARCHAR(24) NOT NULL PRIMARY KEY
